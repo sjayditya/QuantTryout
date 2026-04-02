@@ -1,0 +1,424 @@
+symbol,company_name,sector,industry
+ADANIENT,Adani Enterprises Ltd.,Energy,Trading
+ADANIPORTS,Adani Ports & SEZ Ltd.,Industrials,Port & Port Services
+APOLLOHOSP,Apollo Hospitals Enterprise Ltd.,Healthcare,Hospital & Healthcare Services
+ASIANPAINT,Asian Paints Ltd.,Consumer Discretionary,Paints
+AXISBANK,Axis Bank Ltd.,Financials,Banks
+BAJAJ-AUTO,Bajaj Auto Ltd.,Consumer Discretionary,Automobiles - 2 & 3 Wheelers
+BAJFINANCE,Bajaj Finance Ltd.,Financials,Non-Banking Financial Company
+BAJAJFINSV,Bajaj Finserv Ltd.,Financials,Financial Services - Holding Company
+BPCL,Bharat Petroleum Corp. Ltd.,Energy,Oil & Gas - Refining & Marketing
+BHARTIARTL,Bharti Airtel Ltd.,Communication Services,Telecom Services
+BRITANNIA,Britannia Industries Ltd.,Consumer Staples,FMCG - Food Products
+CIPLA,Cipla Ltd.,Healthcare,Pharmaceuticals
+COALINDIA,Coal India Ltd.,Energy,Mining - Coal
+DIVISLAB,Divi's Laboratories Ltd.,Healthcare,Pharmaceuticals
+DRREDDY,Dr. Reddy's Laboratories Ltd.,Healthcare,Pharmaceuticals
+EICHERMOT,Eicher Motors Ltd.,Consumer Discretionary,Automobiles - 2 & 3 Wheelers
+GRASIM,Grasim Industries Ltd.,Materials,Cement & Cement Products
+HCLTECH,HCL Technologies Ltd.,Information Technology,IT Services & Consulting
+HDFCBANK,HDFC Bank Ltd.,Financials,Banks
+HDFCLIFE,HDFC Life Insurance Co. Ltd.,Financials,Life Insurance
+HEROMOTOCO,Hero MotoCorp Ltd.,Consumer Discretionary,Automobiles - 2 & 3 Wheelers
+HINDALCO,Hindalco Industries Ltd.,Materials,Non-Ferrous Metals
+HINDUNILVR,Hindustan Unilever Ltd.,Consumer Staples,FMCG - Personal Care
+ICICIBANK,ICICI Bank Ltd.,Financials,Banks
+INDUSINDBK,IndusInd Bank Ltd.,Financials,Banks
+INFY,Infosys Ltd.,Information Technology,IT Services & Consulting
+ITC,ITC Ltd.,Consumer Staples,FMCG - Tobacco
+JSWSTEEL,JSW Steel Ltd.,Materials,Iron & Steel
+KOTAKBANK,Kotak Mahindra Bank Ltd.,Financials,Banks
+LT,Larsen & Toubro Ltd.,Industrials,Construction & Engineering
+M&M,Mahindra & Mahindra Ltd.,Consumer Discretionary,Automobiles - Passenger Cars
+MARUTI,Maruti Suzuki India Ltd.,Consumer Discretionary,Automobiles - Passenger Cars
+NESTLEIND,Nestle India Ltd.,Consumer Staples,FMCG - Food Products
+NTPC,NTPC Ltd.,Utilities,Power Generation
+ONGC,Oil & Natural Gas Corp. Ltd.,Energy,Oil & Gas - Exploration & Production
+POWERGRID,Power Grid Corp. of India Ltd.,Utilities,Power Transmission
+RELIANCE,Reliance Industries Ltd.,Energy,Diversified - Oil & Gas
+SBILIFE,SBI Life Insurance Co. Ltd.,Financials,Life Insurance
+SBIN,State Bank of India,Financials,Banks
+SUNPHARMA,Sun Pharmaceutical Industries Ltd.,Healthcare,Pharmaceuticals
+TCS,Tata Consultancy Services Ltd.,Information Technology,IT Services & Consulting
+TATACONSUM,Tata Consumer Products Ltd.,Consumer Staples,FMCG - Food Products
+TATAMOTORS,Tata Motors Ltd.,Consumer Discretionary,Automobiles - Passenger Cars
+TATASTEEL,Tata Steel Ltd.,Materials,Iron & Steel
+TECHM,Tech Mahindra Ltd.,Information Technology,IT Services & Consulting
+TITAN,Titan Company Ltd.,Consumer Discretionary,Jewellery & Watches
+ULTRACEMCO,UltraTech Cement Ltd.,Materials,Cement & Cement Products
+WIPRO,Wipro Ltd.,Information Technology,IT Services & Consulting
+ADANIGREEN,Adani Green Energy Ltd.,Utilities,Renewable Energy
+ADANITRANS,Adani Transmission Ltd.,Utilities,Power Transmission
+AMBUJACEM,Ambuja Cements Ltd.,Materials,Cement & Cement Products
+APOLLOTYRE,Apollo Tyres Ltd.,Consumer Discretionary,Tyres
+ASHOKLEY,Ashok Leyland Ltd.,Consumer Discretionary,Commercial Vehicles
+AUROPHARMA,Aurobindo Pharma Ltd.,Healthcare,Pharmaceuticals
+BANDHANBNK,Bandhan Bank Ltd.,Financials,Banks
+BERGEPAINT,Berger Paints India Ltd.,Consumer Discretionary,Paints
+BIOCON,Biocon Ltd.,Healthcare,Pharmaceuticals
+BOSCHLTD,Bosch Ltd.,Consumer Discretionary,Auto Components
+CANBK,Canara Bank,Financials,Banks
+CHOLAFIN,Cholamandalam Investment & Finance Co. Ltd.,Financials,Non-Banking Financial Company
+COLPAL,Colgate-Palmolive India Ltd.,Consumer Staples,FMCG - Personal Care
+CONCOR,Container Corporation of India Ltd.,Industrials,Logistics
+DABUR,Dabur India Ltd.,Consumer Staples,FMCG - Personal Care
+DLF,DLF Ltd.,Real Estate,Real Estate Development
+GAIL,GAIL India Ltd.,Energy,Oil & Gas - Transmission
+GODREJCP,Godrej Consumer Products Ltd.,Consumer Staples,FMCG - Personal Care
+GODREJPROP,Godrej Properties Ltd.,Real Estate,Real Estate Development
+HAVELLS,Havells India Ltd.,Consumer Discretionary,Electrical Equipment
+HINDPETRO,Hindustan Petroleum Corp. Ltd.,Energy,Oil & Gas - Refining & Marketing
+ICICIPRULI,ICICI Prudential Life Insurance Co. Ltd.,Financials,Life Insurance
+IDFCFIRSTB,IDFC First Bank Ltd.,Financials,Banks
+IGL,Indraprastha Gas Ltd.,Utilities,Gas Distribution
+INDHOTEL,Indian Hotels Co. Ltd.,Consumer Discretionary,Hotels & Restaurants
+INDIGO,InterGlobe Aviation Ltd.,Industrials,Airlines
+IOC,Indian Oil Corp. Ltd.,Energy,Oil & Gas - Refining & Marketing
+IRCTC,Indian Railway Catering & Tourism Corp. Ltd.,Consumer Discretionary,Travel & Tourism
+JINDALSTEL,Jindal Steel & Power Ltd.,Materials,Iron & Steel
+JUBLFOOD,Jubilant Foodworks Ltd.,Consumer Discretionary,Restaurants
+LICHSGFIN,LIC Housing Finance Ltd.,Financials,Housing Finance
+LUPIN,Lupin Ltd.,Healthcare,Pharmaceuticals
+MARICO,Marico Ltd.,Consumer Staples,FMCG - Personal Care
+MCDOWELL-N,United Spirits Ltd.,Consumer Staples,Alcoholic Beverages
+MFSL,Max Financial Services Ltd.,Financials,Life Insurance
+MGL,Mahanagar Gas Ltd.,Utilities,Gas Distribution
+MOTHERSON,Samvardhana Motherson International Ltd.,Consumer Discretionary,Auto Components
+MPHASIS,Mphasis Ltd.,Information Technology,IT Services & Consulting
+MRF,MRF Ltd.,Consumer Discretionary,Tyres
+NAUKRI,Info Edge India Ltd.,Communication Services,Internet Services
+NMDC,NMDC Ltd.,Materials,Mining - Iron Ore
+OBEROIRLTY,Oberoi Realty Ltd.,Real Estate,Real Estate Development
+OFSS,Oracle Financial Services Software Ltd.,Information Technology,IT Software Products
+PAGEIND,Page Industries Ltd.,Consumer Discretionary,Apparel & Accessories
+PEL,Piramal Enterprises Ltd.,Healthcare,Pharmaceuticals
+PERSISTENT,Persistent Systems Ltd.,Information Technology,IT Services & Consulting
+PETRONET,Petronet LNG Ltd.,Energy,Oil & Gas - LNG
+PFC,Power Finance Corp. Ltd.,Financials,Non-Banking Financial Company
+PIDILITIND,Pidilite Industries Ltd.,Materials,Chemicals - Specialty
+PIIND,PI Industries Ltd.,Materials,Agrochemicals
+PNB,Punjab National Bank,Financials,Banks
+POLYCAB,Polycab India Ltd.,Industrials,Cables
+RECLTD,REC Ltd.,Financials,Non-Banking Financial Company
+SAIL,Steel Authority of India Ltd.,Materials,Iron & Steel
+SHREECEM,Shree Cement Ltd.,Materials,Cement & Cement Products
+SIEMENS,Siemens Ltd.,Industrials,Diversified Industrials
+SRF,SRF Ltd.,Materials,Chemicals - Specialty
+TATACOMM,Tata Communications Ltd.,Communication Services,Telecom Services
+TATAPOWER,Tata Power Co. Ltd.,Utilities,Power Generation
+TORNTPHARM,Torrent Pharmaceuticals Ltd.,Healthcare,Pharmaceuticals
+TRENT,Trent Ltd.,Consumer Discretionary,Retail
+TVSMOTOR,TVS Motor Co. Ltd.,Consumer Discretionary,Automobiles - 2 & 3 Wheelers
+UBL,United Breweries Ltd.,Consumer Staples,Alcoholic Beverages
+UPL,UPL Ltd.,Materials,Agrochemicals
+VEDL,Vedanta Ltd.,Materials,Diversified Metals & Mining
+VOLTAS,Voltas Ltd.,Consumer Discretionary,Consumer Durables
+ZEEL,Zee Entertainment Enterprises Ltd.,Communication Services,Media & Entertainment
+ZOMATO,Zomato Ltd.,Consumer Discretionary,Food Delivery
+ABCAPITAL,Aditya Birla Capital Ltd.,Financials,Financial Services - Holding Company
+ABFRL,Aditya Birla Fashion & Retail Ltd.,Consumer Discretionary,Retail
+ACC,ACC Ltd.,Materials,Cement & Cement Products
+ALKEM,Alkem Laboratories Ltd.,Healthcare,Pharmaceuticals
+AMARAJABAT,Amara Raja Energy & Mobility Ltd.,Consumer Discretionary,Auto Components
+ASTRAL,Astral Ltd.,Materials,Plastic Products
+ATUL,Atul Ltd.,Materials,Chemicals - Specialty
+BALKRISIND,Balkrishna Industries Ltd.,Consumer Discretionary,Tyres
+BATAINDIA,Bata India Ltd.,Consumer Discretionary,Footwear
+BEL,Bharat Electronics Ltd.,Industrials,Defense Equipment
+BHARATFORG,Bharat Forge Ltd.,Consumer Discretionary,Auto Components
+CAMS,Computer Age Management Services Ltd.,Financials,Financial Services - Technology
+CESC,CESC Ltd.,Utilities,Power Generation
+CHAMBLFERT,Chambal Fertilizers & Chemicals Ltd.,Materials,Fertilizers
+COFORGE,Coforge Ltd.,Information Technology,IT Services & Consulting
+COROMANDEL,Coromandel International Ltd.,Materials,Fertilizers
+CROMPTON,Crompton Greaves Consumer Electricals Ltd.,Consumer Discretionary,Electrical Equipment
+CUB,City Union Bank Ltd.,Financials,Banks
+CUMMINSIND,Cummins India Ltd.,Industrials,Industrial Machinery
+DEEPAKNTR,Deepak Nitrite Ltd.,Materials,Chemicals - Specialty
+DIXON,Dixon Technologies India Ltd.,Consumer Discretionary,Consumer Electronics
+DMART,Avenue Supermarts Ltd.,Consumer Staples,Retail - Supermarkets
+ESCORTS,Escorts Kubota Ltd.,Industrials,Agricultural Machinery
+EXIDEIND,Exide Industries Ltd.,Consumer Discretionary,Auto Components
+FEDERALBNK,Federal Bank Ltd.,Financials,Banks
+GLENMARK,Glenmark Pharmaceuticals Ltd.,Healthcare,Pharmaceuticals
+GMRINFRA,GMR Airports Infrastructure Ltd.,Industrials,Airports
+GNFC,Gujarat Narmada Valley Fertilizers & Chemicals Ltd.,Materials,Fertilizers
+GODREJIND,Godrej Industries Ltd.,Materials,Diversified Chemicals
+GUJGASLTD,Gujarat Gas Ltd.,Utilities,Gas Distribution
+HAL,Hindustan Aeronautics Ltd.,Industrials,Defense Equipment
+HATSUN,Hatsun Agro Product Ltd.,Consumer Staples,Dairy Products
+ICICIGI,ICICI Lombard General Insurance Co. Ltd.,Financials,General Insurance
+IDEA,Vodafone Idea Ltd.,Communication Services,Telecom Services
+IPCALAB,IPCA Laboratories Ltd.,Healthcare,Pharmaceuticals
+IRB,IRB Infrastructure Developers Ltd.,Industrials,Construction & Engineering
+IRFC,Indian Railway Finance Corp. Ltd.,Financials,Non-Banking Financial Company
+JKCEMENT,JK Cement Ltd.,Materials,Cement & Cement Products
+JSL,Jindal Stainless Ltd.,Materials,Iron & Steel
+JSWENERGY,JSW Energy Ltd.,Utilities,Power Generation
+KAJARIACER,Kajaria Ceramics Ltd.,Materials,Ceramics
+KPITTECH,KPIT Technologies Ltd.,Information Technology,IT Services & Consulting
+LALPATHLAB,Dr. Lal PathLabs Ltd.,Healthcare,Diagnostics
+LAURUSLABS,Laurus Labs Ltd.,Healthcare,Pharmaceuticals
+LICI,Life Insurance Corporation of India,Financials,Life Insurance
+LTIM,LTIMindtree Ltd.,Information Technology,IT Services & Consulting
+LTTS,L&T Technology Services Ltd.,Information Technology,IT Services & Consulting
+MANAPPURAM,Manappuram Finance Ltd.,Financials,Non-Banking Financial Company
+METROPOLIS,Metropolis Healthcare Ltd.,Healthcare,Diagnostics
+MUTHOOTFIN,Muthoot Finance Ltd.,Financials,Non-Banking Financial Company
+NAM-INDIA,Nippon Life India Asset Management Ltd.,Financials,Asset Management
+NATIONALUM,National Aluminium Co. Ltd.,Materials,Non-Ferrous Metals
+NAVINFLUOR,Navin Fluorine International Ltd.,Materials,Chemicals - Specialty
+NHPC,NHPC Ltd.,Utilities,Power Generation
+NLCINDIA,NLC India Ltd.,Utilities,Power Generation
+PAYTM,One 97 Communications Ltd.,Financials,Financial Services - Technology
+PGHH,Procter & Gamble Hygiene & Health Care Ltd.,Consumer Staples,FMCG - Personal Care
+PHOENIXLTD,Phoenix Mills Ltd.,Real Estate,Retail Real Estate
+POLICYBZR,PB Fintech Ltd.,Financials,Insurance Broking
+POWERGRID,Power Grid Corp. of India Ltd.,Utilities,Power Transmission
+PVRINOX,PVR INOX Ltd.,Consumer Discretionary,Entertainment
+RAIN,Rain Industries Ltd.,Materials,Chemicals - Specialty
+RAJESHEXPO,Rajesh Exports Ltd.,Consumer Discretionary,Gems & Jewellery
+RAMCOCEM,Ramco Cements Ltd.,Materials,Cement & Cement Products
+RBLBANK,RBL Bank Ltd.,Financials,Banks
+SBICARD,SBI Cards & Payment Services Ltd.,Financials,Non-Banking Financial Company
+SCHAEFFLER,Schaeffler India Ltd.,Consumer Discretionary,Auto Components
+SHRIRAMFIN,Shriram Finance Ltd.,Financials,Non-Banking Financial Company
+SJVN,SJVN Ltd.,Utilities,Power Generation
+SOLARINDS,Solar Industries India Ltd.,Materials,Chemicals - Specialty
+SONACOMS,Sona BLW Precision Forgings Ltd.,Consumer Discretionary,Auto Components
+STARHEALTH,Star Health & Allied Insurance Co. Ltd.,Financials,General Insurance
+SUNDARMFIN,Sundaram Finance Ltd.,Financials,Non-Banking Financial Company
+SUNDRMFAST,Sundram Fasteners Ltd.,Consumer Discretionary,Auto Components
+SUNTV,Sun TV Network Ltd.,Communication Services,Media & Entertainment
+SUPREMEIND,Supreme Industries Ltd.,Materials,Plastic Products
+SYNGENE,Syngene International Ltd.,Healthcare,Pharmaceuticals
+TATACHEM,Tata Chemicals Ltd.,Materials,Chemicals - Diversified
+TATAELXSI,Tata Elxsi Ltd.,Information Technology,IT Services & Consulting
+TATAINVEST,Tata Investment Corp. Ltd.,Financials,Investment Company
+TIINDIA,Tube Investments of India Ltd.,Consumer Discretionary,Auto Components
+TIMKEN,Timken India Ltd.,Industrials,Industrial Machinery
+TORNTPOWER,Torrent Power Ltd.,Utilities,Power Generation
+TTML,Tata Teleservices Maharashtra Ltd.,Communication Services,Telecom Services
+UNIONBANK,Union Bank of India,Financials,Banks
+UNITDSPR,United Spirits Ltd.,Consumer Staples,Alcoholic Beverages
+VGUARD,V-Guard Industries Ltd.,Consumer Discretionary,Electrical Equipment
+VINATIORGA,Vinati Organics Ltd.,Materials,Chemicals - Specialty
+WHIRLPOOL,Whirlpool of India Ltd.,Consumer Discretionary,Consumer Durables
+YESBANK,Yes Bank Ltd.,Financials,Banks
+ZYDUSLIFE,Zydus Lifesciences Ltd.,Healthcare,Pharmaceuticals
+AARTIIND,Aarti Industries Ltd.,Materials,Chemicals - Specialty
+ABB,ABB India Ltd.,Industrials,Electrical Equipment
+AFFLE,Affle India Ltd.,Communication Services,Digital Marketing
+AIAENG,AIA Engineering Ltd.,Materials,Industrial Machinery
+AJANTPHARM,Ajanta Pharma Ltd.,Healthcare,Pharmaceuticals
+APLLTD,Alembic Pharmaceuticals Ltd.,Healthcare,Pharmaceuticals
+ARE&M,Amara Raja Energy & Mobility Ltd.,Consumer Discretionary,Auto Components
+ASAHIINDIA,Asahi India Glass Ltd.,Consumer Discretionary,Auto Components
+ATUL,Atul Ltd.,Materials,Chemicals - Specialty
+AUROPHARMA,Aurobindo Pharma Ltd.,Healthcare,Pharmaceuticals
+AVANTIFEED,Avanti Feeds Ltd.,Materials,Animal Feed
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd.,Financials,Investment Company
+BALRAMCHIN,Balrampur Chini Mills Ltd.,Consumer Staples,Sugar
+BASF,BASF India Ltd.,Materials,Chemicals - Diversified
+BAYERCROP,Bayer CropScience Ltd.,Materials,Agrochemicals
+BHARTIHEXA,Bharti Hexacom Ltd.,Communication Services,Telecom Services
+BLUEDART,Blue Dart Express Ltd.,Industrials,Logistics
+BLUESTARCO,Blue Star Ltd.,Consumer Discretionary,Consumer Durables
+BRIGADE,Brigade Enterprises Ltd.,Real Estate,Real Estate Development
+CANFINHOME,Can Fin Homes Ltd.,Financials,Housing Finance
+CAPLIPOINT,Caplin Point Laboratories Ltd.,Healthcare,Pharmaceuticals
+CARBORUNIV,Carborundum Universal Ltd.,Materials,Abrasives
+CASTROLIND,Castrol India Ltd.,Energy,Lubricants
+CCL,CCL Products India Ltd.,Consumer Staples,Coffee
+CDSL,Central Depository Services India Ltd.,Financials,Financial Services - Technology
+CENTURYTEX,Century Textiles & Industries Ltd.,Materials,Diversified
+CERA,Cera Sanitaryware Ltd.,Materials,Sanitaryware
+CGPOWER,CG Power & Industrial Solutions Ltd.,Industrials,Electrical Equipment
+CHOLAHLDNG,Cholamandalam Financial Holdings Ltd.,Financials,Investment Company
+CLEAN,Clean Science & Technology Ltd.,Materials,Chemicals - Specialty
+COCHINSHIP,Cochin Shipyard Ltd.,Industrials,Shipbuilding
+CREDITACC,CreditAccess Grameen Ltd.,Financials,Microfinance
+CYIENT,Cyient Ltd.,Information Technology,IT Services & Consulting
+DATAPATTNS,Data Patterns India Ltd.,Industrials,Defense Equipment
+DCBBANK,DCB Bank Ltd.,Financials,Banks
+DELTACORP,Delta Corp Ltd.,Consumer Discretionary,Gaming & Casinos
+DEVYANI,Devyani International Ltd.,Consumer Discretionary,Restaurants
+DHANI,Dhani Services Ltd.,Financials,Financial Services - Technology
+DIVISLAB,Divi's Laboratories Ltd.,Healthcare,Pharmaceuticals
+DREDGECORP,Dredging Corporation of India Ltd.,Industrials,Construction & Engineering
+ECLERX,eClerx Services Ltd.,Information Technology,IT Services & Consulting
+EIDPARRY,EID Parry India Ltd.,Consumer Staples,Sugar
+ELGIEQUIP,Elgi Equipments Ltd.,Industrials,Industrial Machinery
+EMAMILTD,Emami Ltd.,Consumer Staples,FMCG - Personal Care
+ENDURANCE,Endurance Technologies Ltd.,Consumer Discretionary,Auto Components
+ENGINERSIN,Engineers India Ltd.,Industrials,Construction & Engineering
+EPL,Eris Lifesciences Ltd.,Healthcare,Pharmaceuticals
+EQUITAS,Equitas Small Finance Bank Ltd.,Financials,Banks
+FINEORG,Fine Organic Industries Ltd.,Materials,Chemicals - Specialty
+FINPIPE,Finolex Industries Ltd.,Materials,Plastic Products
+FLUOROCHEM,Gujarat Fluorochemicals Ltd.,Materials,Chemicals - Specialty
+FORTIS,Fortis Healthcare Ltd.,Healthcare,Hospital & Healthcare Services
+GALAXYSURF,Galaxy Surfactants Ltd.,Materials,Chemicals - Specialty
+GARFIBRES,Garware Technical Fibres Ltd.,Materials,Textiles
+GILLETTE,Gillette India Ltd.,Consumer Staples,FMCG - Personal Care
+GLAXO,GlaxoSmithKline Pharmaceuticals Ltd.,Healthcare,Pharmaceuticals
+GODFRYPHLP,Godfrey Phillips India Ltd.,Consumer Staples,FMCG - Tobacco
+GPPL,Gujarat Pipavav Port Ltd.,Industrials,Port & Port Services
+GRAPHITE,Graphite India Ltd.,Materials,Electrodes
+GRASIM,Grasim Industries Ltd.,Materials,Cement & Cement Products
+GREAVESCOT,Greaves Cotton Ltd.,Consumer Discretionary,Auto Components
+GRINDWELL,Grindwell Norton Ltd.,Materials,Abrasives
+GSFC,Gujarat State Fertilizers & Chemicals Ltd.,Materials,Fertilizers
+GSPL,Gujarat State Petronet Ltd.,Utilities,Gas Distribution
+GUJALKALI,Gujarat Alkalies & Chemicals Ltd.,Materials,Chemicals - Diversified
+HAPPSTMNDS,Happiest Minds Technologies Ltd.,Information Technology,IT Services & Consulting
+HBLPOWER,HBL Power Systems Ltd.,Industrials,Batteries
+HEIDELBERG,HeidelbergCement India Ltd.,Materials,Cement & Cement Products
+HEMIPROP,Hemisphere Properties India Ltd.,Real Estate,Real Estate Development
+HERANBA,Heranba Industries Ltd.,Materials,Agrochemicals
+HFCL,HFCL Ltd.,Communication Services,Telecom Equipment
+HIKAL,Hikal Ltd.,Healthcare,Pharmaceuticals
+HINDZINC,Hindustan Zinc Ltd.,Materials,Non-Ferrous Metals
+HONAUT,Honeywell Automation India Ltd.,Industrials,Industrial Automation
+HUDCO,Housing & Urban Development Corp. Ltd.,Financials,Housing Finance
+IBREALEST,Indiabulls Real Estate Ltd.,Real Estate,Real Estate Development
+IDBI,IDBI Bank Ltd.,Financials,Banks
+IIFL,IIFL Finance Ltd.,Financials,Non-Banking Financial Company
+IIFLWAM,IIFL Wealth Management Ltd.,Financials,Wealth Management
+INDIACEM,India Cements Ltd.,Materials,Cement & Cement Products
+INDIAMART,IndiaMART InterMESH Ltd.,Communication Services,B2B Marketplace
+INDIANB,Indian Bank,Financials,Banks
+INDIGOPNTS,Indigo Paints Ltd.,Consumer Discretionary,Paints
+INDOCO,Indoco Remedies Ltd.,Healthcare,Pharmaceuticals
+INFIBEAM,Infibeam Avenues Ltd.,Financials,Payment Gateway
+INGERRAND,Ingersoll Rand India Ltd.,Industrials,Industrial Machinery
+INTELLECT,Intellect Design Arena Ltd.,Information Technology,IT Software Products
+IOB,Indian Overseas Bank,Financials,Banks
+ISEC,ICICI Securities Ltd.,Financials,Stock Broking
+ITI,ITI Ltd.,Communication Services,Telecom Equipment
+JBCHEPHARM,JB Chemicals & Pharmaceuticals Ltd.,Healthcare,Pharmaceuticals
+JKLAKSHMI,JK Lakshmi Cement Ltd.,Materials,Cement & Cement Products
+JKPAPER,JK Paper Ltd.,Materials,Paper & Paper Products
+JMFINANCIL,JM Financial Ltd.,Financials,Investment Banking
+JPASSOCIAT,Jaiprakash Associates Ltd.,Industrials,Construction & Engineering
+JSWINFRA,JSW Infrastructure Ltd.,Industrials,Port & Port Services
+JUBILANT,Jubilant Ingrevia Ltd.,Materials,Chemicals - Specialty
+JUSTDIAL,Just Dial Ltd.,Communication Services,Local Search
+KALYANKJIL,Kalyan Jewellers India Ltd.,Consumer Discretionary,Jewellery & Watches
+KANSAINER,Kansai Nerolac Paints Ltd.,Consumer Discretionary,Paints
+KEI,KEI Industries Ltd.,Industrials,Cables
+KNRCON,KNR Constructions Ltd.,Industrials,Construction & Engineering
+KOLTEPATIL,Kolte-Patil Developers Ltd.,Real Estate,Real Estate Development
+KRBL,KRBL Ltd.,Consumer Staples,Rice Milling
+KSB,KSB Ltd.,Industrials,Industrial Machinery
+L&TFH,L&T Finance Holdings Ltd.,Financials,Non-Banking Financial Company
+LAXMIMACH,Lakshmi Machine Works Ltd.,Industrials,Industrial Machinery
+LEMONTREE,Lemon Tree Hotels Ltd.,Consumer Discretionary,Hotels & Restaurants
+LINDEINDIA,Linde India Ltd.,Materials,Industrial Gases
+LUXIND,Lux Industries Ltd.,Consumer Discretionary,Apparel & Accessories
+MAHABANK,Bank of Maharashtra,Financials,Banks
+MAHINDCIE,Mahindra CIE Automotive Ltd.,Consumer Discretionary,Auto Components
+MAHLIFE,Mahindra Lifespace Developers Ltd.,Real Estate,Real Estate Development
+MAHLOG,Mahindra Logistics Ltd.,Industrials,Logistics
+MANINFRA,Man Infraconstruction Ltd.,Industrials,Construction & Engineering
+MASFIN,MAS Financial Services Ltd.,Financials,Non-Banking Financial Company
+MAXHEALTH,Max Healthcare Institute Ltd.,Healthcare,Hospital & Healthcare Services
+MAZDA,Mazda Ltd.,Consumer Discretionary,Auto Components
+MEDPLUS,Medplus Health Services Ltd.,Healthcare,Retail Pharmacy
+METROBRAND,Metro Brands Ltd.,Consumer Discretionary,Footwear
+MINDACORP,Minda Corporation Ltd.,Consumer Discretionary,Auto Components
+MINDAIND,Minda Industries Ltd.,Consumer Discretionary,Auto Components
+MINDTREE,LTIMindtree Ltd.,Information Technology,IT Services & Consulting
+MIDHANI,Mishra Dhatu Nigam Ltd.,Materials,Specialty Metals
+MMTC,MMTC Ltd.,Materials,Trading
+MOIL,MOIL Ltd.,Materials,Mining - Manganese Ore
+MOTILALOFS,Motilal Oswal Financial Services Ltd.,Financials,Stock Broking
+MPHASIS,Mphasis Ltd.,Information Technology,IT Services & Consulting
+MSUMI,Motherson Sumi Wiring India Ltd.,Consumer Discretionary,Auto Components
+NATCOPHARM,Natco Pharma Ltd.,Healthcare,Pharmaceuticals
+NESCO,Nesco Ltd.,Real Estate,Exhibition & Convention Centers
+NETWORK18,Network18 Media & Investments Ltd.,Communication Services,Media & Entertainment
+NEWGEN,Newgen Software Technologies Ltd.,Information Technology,IT Software Products
+NIITLTD,NIIT Ltd.,Consumer Discretionary,Education & Training
+NLCINDIA,NLC India Ltd.,Utilities,Power Generation
+NOCIL,NOCIL Ltd.,Materials,Chemicals - Specialty
+NSLNISP,NMDC Steel Ltd.,Materials,Iron & Steel
+NUVOCO,Nuvoco Vistas Corp. Ltd.,Materials,Cement & Cement Products
+ORIENTELEC,Orient Electric Ltd.,Consumer Discretionary,Electrical Equipment
+PNBHOUSING,PNB Housing Finance Ltd.,Financials,Housing Finance
+PNCINFRA,PNC Infratech Ltd.,Industrials,Construction & Engineering
+PRAJIND,Praj Industries Ltd.,Industrials,Industrial Machinery
+PRSMJOHNSN,Prism Johnson Ltd.,Materials,Cement & Cement Products
+PSB,Punjab & Sind Bank,Financials,Banks
+QUESS,Quess Corp Ltd.,Industrials,Staffing & Employment
+RADICO,Radico Khaitan Ltd.,Consumer Staples,Alcoholic Beverages
+RAILTEL,RailTel Corporation of India Ltd.,Communication Services,Telecom Services
+RAJRATAN,Rajratan Global Wire Ltd.,Materials,Wire Products
+RALLIS,Rallis India Ltd.,Materials,Agrochemicals
+RATNAMANI,Ratnamani Metals & Tubes Ltd.,Materials,Steel Tubes
+RAYMOND,Raymond Ltd.,Consumer Discretionary,Textiles
+REDINGTON,Redington Ltd.,Information Technology,IT Distribution
+RELAXO,Relaxo Footwears Ltd.,Consumer Discretionary,Footwear
+ROUTE,Route Mobile Ltd.,Communication Services,Cloud Communication
+RVNL,Rail Vikas Nigam Ltd.,Industrials,Construction & Engineering
+SAFARI,Safari Industries India Ltd.,Consumer Discretionary,Luggage
+SAREGAMA,Saregama India Ltd.,Communication Services,Music & Entertainment
+SBICARD,SBI Cards & Payment Services Ltd.,Financials,Non-Banking Financial Company
+SCHNEIDER,Schneider Electric Infrastructure Ltd.,Industrials,Electrical Equipment
+SHARDACROP,Sharda Cropchem Ltd.,Materials,Agrochemicals
+SHILPAMED,Shilpa Medicare Ltd.,Healthcare,Pharmaceuticals
+SHOPERSTOP,Shoppers Stop Ltd.,Consumer Discretionary,Retail
+SHYAMMETL,Shyam Metalics & Energy Ltd.,Materials,Iron & Steel
+SIGNATURE,Signatureglobal India Ltd.,Real Estate,Real Estate Development
+SKFINDIA,SKF India Ltd.,Industrials,Bearings
+SOBHA,Sobha Ltd.,Real Estate,Real Estate Development
+SPARC,Sun Pharma Advanced Research Co. Ltd.,Healthcare,Pharmaceuticals
+SPICEJET,SpiceJet Ltd.,Industrials,Airlines
+STARCEMENT,Star Cement Ltd.,Materials,Cement & Cement Products
+STLTECH,Sterlite Technologies Ltd.,Communication Services,Telecom Equipment
+SUBEXLTD,Subex Ltd.,Information Technology,IT Software Products
+SUDARSCHEM,Sudarshan Chemical Industries Ltd.,Materials,Chemicals - Specialty
+SUMICHEM,Sumitomo Chemical India Ltd.,Materials,Agrochemicals
+SUNCLAYLTD,Sundaram Clayton Ltd.,Consumer Discretionary,Auto Components
+SUPRAJIT,Suprajit Engineering Ltd.,Consumer Discretionary,Auto Components
+SUPRIYA,Supriya Lifescience Ltd.,Healthcare,Pharmaceuticals
+SUZLON,Suzlon Energy Ltd.,Utilities,Renewable Energy
+SWANENERGY,Swan Energy Ltd.,Energy,LPG Distribution
+SYMPHONY,Symphony Ltd.,Consumer Discretionary,Consumer Durables
+TAKE,Take Solutions Ltd.,Information Technology,IT Services & Consulting
+TASTYBITE,Tasty Bite Eatables Ltd.,Consumer Staples,Packaged Foods
+TATACOFFEE,Tata Coffee Ltd.,Consumer Staples,Coffee
+TATATECH,Tata Technologies Ltd.,Information Technology,Engineering Services
+TEAMLEASE,TeamLease Services Ltd.,Industrials,Staffing & Employment
+TECHNOE,Techno Electric & Engineering Co. Ltd.,Industrials,Construction & Engineering
+TEXRAIL,Texmaco Rail & Engineering Ltd.,Industrials,Railway Equipment
+THERMAX,Thermax Ltd.,Industrials,Industrial Machinery
+THYROCARE,Thyrocare Technologies Ltd.,Healthcare,Diagnostics
+TITAGARH,Titagarh Rail Systems Ltd.,Industrials,Railway Equipment
+TNPETRO,Tamilnadu Petroproducts Ltd.,Materials,Petrochemicals
+TNPL,Tamil Nadu Newsprint & Papers Ltd.,Materials,Paper & Paper Products
+TRITURBINE,Triveni Turbine Ltd.,Industrials,Industrial Machinery
+TRIDENT,Trident Ltd.,Consumer Discretionary,Textiles
+TTKPRESTIG,TTK Prestige Ltd.,Consumer Discretionary,Consumer Durables
+TV18BRDCST,TV18 Broadcast Ltd.,Communication Services,Media & Entertainment
+UCOBANK,UCO Bank,Financials,Banks
+UJJIVAN,Ujjivan Small Finance Bank Ltd.,Financials,Banks
+UJJIVANSFB,Ujjivan Small Finance Bank Ltd.,Financials,Banks
+ULTRACEMCO,UltraTech Cement Ltd.,Materials,Cement & Cement Products
+UNIPARTS,Uniparts India Ltd.,Consumer Discretionary,Auto Components
+USHAMART,Usha Martin Ltd.,Materials,Wire & Cable Products
+UTIAMC,UTI Asset Management Co. Ltd.,Financials,Asset Management
+VAIBHAVGBL,Vaibhav Global Ltd.,Consumer Discretionary,E-Commerce
+VARROC,Varroc Engineering Ltd.,Consumer Discretionary,Auto Components
+VBL,Varun Beverages Ltd.,Consumer Staples,Beverages
+VEDL,Vedanta Ltd.,Materials,Diversified Metals & Mining
+VENKEYS,Venky's India Ltd.,Consumer Staples,Poultry Products
+VESUVIUS,Vesuvius India Ltd.,Materials,Refractories
+VTL,Vardhman Textiles Ltd.,Consumer Discretionary,Textiles
+WABAG,VA Tech Wabag Ltd.,Industrials,Water Treatment
+WELCORP,Welspun Corp Ltd.,Materials,Steel Pipes
+WELSPUNIND,Welspun India Ltd.,Consumer Discretionary,Home Textiles
+WESTLIFE,Westlife Foodworld Ltd.,Consumer Discretionary,Restaurants
+WOCKPHARMA,Wockhardt Ltd.,Healthcare,Pharmaceuticals
+ZENTEC,Zen Technologies Ltd.,Industrials,Defense Equipment
+ZENSARTECH,Zensar Technologies Ltd.,Information Technology,IT Services & Consulting

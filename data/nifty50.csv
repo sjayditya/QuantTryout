@@ -1,0 +1,49 @@
+symbol,company_name,sector,industry
+ADANIENT,Adani Enterprises Ltd.,Energy,Trading
+ADANIPORTS,Adani Ports & SEZ Ltd.,Industrials,Port & Port Services
+APOLLOHOSP,Apollo Hospitals Enterprise Ltd.,Healthcare,Hospital & Healthcare Services
+ASIANPAINT,Asian Paints Ltd.,Consumer Discretionary,Paints
+AXISBANK,Axis Bank Ltd.,Financials,Banks
+BAJAJ-AUTO,Bajaj Auto Ltd.,Consumer Discretionary,Automobiles - 2 & 3 Wheelers
+BAJFINANCE,Bajaj Finance Ltd.,Financials,Non-Banking Financial Company
+BAJAJFINSV,Bajaj Finserv Ltd.,Financials,Financial Services - Holding Company
+BPCL,Bharat Petroleum Corp. Ltd.,Energy,Oil & Gas - Refining & Marketing
+BHARTIARTL,Bharti Airtel Ltd.,Communication Services,Telecom Services
+BRITANNIA,Britannia Industries Ltd.,Consumer Staples,FMCG - Food Products
+CIPLA,Cipla Ltd.,Healthcare,Pharmaceuticals
+COALINDIA,Coal India Ltd.,Energy,Mining - Coal
+DIVISLAB,Divi's Laboratories Ltd.,Healthcare,Pharmaceuticals
+DRREDDY,Dr. Reddy's Laboratories Ltd.,Healthcare,Pharmaceuticals
+EICHERMOT,Eicher Motors Ltd.,Consumer Discretionary,Automobiles - 2 & 3 Wheelers
+GRASIM,Grasim Industries Ltd.,Materials,Cement & Cement Products
+HCLTECH,HCL Technologies Ltd.,Information Technology,IT Services & Consulting
+HDFCBANK,HDFC Bank Ltd.,Financials,Banks
+HDFCLIFE,HDFC Life Insurance Co. Ltd.,Financials,Life Insurance
+HEROMOTOCO,Hero MotoCorp Ltd.,Consumer Discretionary,Automobiles - 2 & 3 Wheelers
+HINDALCO,Hindalco Industries Ltd.,Materials,Non-Ferrous Metals
+HINDUNILVR,Hindustan Unilever Ltd.,Consumer Staples,FMCG - Personal Care
+ICICIBANK,ICICI Bank Ltd.,Financials,Banks
+INDUSINDBK,IndusInd Bank Ltd.,Financials,Banks
+INFY,Infosys Ltd.,Information Technology,IT Services & Consulting
+ITC,ITC Ltd.,Consumer Staples,FMCG - Tobacco
+JSWSTEEL,JSW Steel Ltd.,Materials,Iron & Steel
+KOTAKBANK,Kotak Mahindra Bank Ltd.,Financials,Banks
+LT,Larsen & Toubro Ltd.,Industrials,Construction & Engineering
+M&M,Mahindra & Mahindra Ltd.,Consumer Discretionary,Automobiles - Passenger Cars
+MARUTI,Maruti Suzuki India Ltd.,Consumer Discretionary,Automobiles - Passenger Cars
+NESTLEIND,Nestle India Ltd.,Consumer Staples,FMCG - Food Products
+NTPC,NTPC Ltd.,Utilities,Power Generation
+ONGC,Oil & Natural Gas Corp. Ltd.,Energy,Oil & Gas - Exploration & Production
+POWERGRID,Power Grid Corp. of India Ltd.,Utilities,Power Transmission
+RELIANCE,Reliance Industries Ltd.,Energy,Diversified - Oil & Gas
+SBILIFE,SBI Life Insurance Co. Ltd.,Financials,Life Insurance
+SBIN,State Bank of India,Financials,Banks
+SUNPHARMA,Sun Pharmaceutical Industries Ltd.,Healthcare,Pharmaceuticals
+TCS,Tata Consultancy Services Ltd.,Information Technology,IT Services & Consulting
+TATACONSUM,Tata Consumer Products Ltd.,Consumer Staples,FMCG - Food Products
+TATAMOTORS,Tata Motors Ltd.,Consumer Discretionary,Automobiles - Passenger Cars
+TATASTEEL,Tata Steel Ltd.,Materials,Iron & Steel
+TECHM,Tech Mahindra Ltd.,Information Technology,IT Services & Consulting
+TITAN,Titan Company Ltd.,Consumer Discretionary,Jewellery & Watches
+ULTRACEMCO,UltraTech Cement Ltd.,Materials,Cement & Cement Products
+WIPRO,Wipro Ltd.,Information Technology,IT Services & Consulting
